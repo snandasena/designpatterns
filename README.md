@@ -1,2 +1,10 @@
 # Design Patterns
 * [C++](C++)
+* [C#](C#)
+* [Go](Go)
+* [Java](Java)
+* [PHP](PHP)
+* [Python](Python)
+* [Ruby](Ruby)
+* [Swift](Swift)
+* [TypeScript](TypeScript)
